@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_820/v1572963035/content-items/003/386/040/Rick_morty_02_fondo_Mesa_de_trabajo_1-original.jpg?1572963035");
+  /* background-size: cover; */
+  
+
+  
+  
 }
 
 code {
