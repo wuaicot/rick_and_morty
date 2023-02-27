@@ -5,15 +5,30 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_820/v1572963035/content-items/003/386/040/Rick_morty_02_fondo_Mesa_de_trabajo_1-original.jpg?1572963035");
-  /* background-size: cover; */
-  
 
+      
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  color: white;
+
+   
+  background-image: url("https://i.pinimg.com/originals/4e/a7/fb/4ea7fb833c63a4ea0b0fb696c5919dd7.png"); 
   
+  background-size:cover  ;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-position: center;
+
   
 }
 
-code {
+ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
+} 
+
